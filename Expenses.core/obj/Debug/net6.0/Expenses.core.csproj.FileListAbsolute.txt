@@ -1,0 +1,15 @@
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\bin\Debug\net6.0\Expenses.core.deps.json
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\bin\Debug\net6.0\Expenses.core.dll
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\bin\Debug\net6.0\Expenses.core.pdb
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\bin\Debug\net6.0\Expense.DB.dll
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\bin\Debug\net6.0\Expense.DB.pdb
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.csproj.AssemblyReference.cache
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.AssemblyInfoInputs.cache
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.AssemblyInfo.cs
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.csproj.CopyComplete
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.dll
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\refint\Expenses.core.dll
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\Expenses.core.pdb
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expenses.core\obj\Debug\net6.0\ref\Expenses.core.dll

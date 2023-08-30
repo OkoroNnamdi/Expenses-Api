@@ -1,0 +1,14 @@
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\bin\Debug\net6.0\Expense.DB.deps.json
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\bin\Debug\net6.0\Expense.DB.runtimeconfig.json
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\bin\Debug\net6.0\Expense.DB.dll
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\bin\Debug\net6.0\Expense.DB.pdb
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.csproj.AssemblyReference.cache
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.AssemblyInfoInputs.cache
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.AssemblyInfo.cs
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.dll
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\refint\Expense.DB.dll
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.pdb
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\Expense.DB.genruntimeconfig.cache
+C:\Users\Decagon Device\Desktop\ExpenseApi\Expense.DB\obj\Debug\net6.0\ref\Expense.DB.dll
